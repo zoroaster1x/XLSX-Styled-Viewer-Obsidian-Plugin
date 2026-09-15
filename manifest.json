@@ -1,0 +1,10 @@
+{
+  "id": "xlsx-styled-viewer",
+  "name": "XLSX Styled Viewer",
+  "version": "1.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Open .xlsx workbooks as styled spreadsheets: fills, fonts, borders, merged cells, frozen panes, wrapped text, autofilter groups and sheet tabs.",
+  "author": "Zoroaster1x",
+  "isDesktopOnly": false,
+  "authorUrl": "https://github.com/zoroaster1x"
+}

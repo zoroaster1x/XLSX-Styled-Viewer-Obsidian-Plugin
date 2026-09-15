@@ -1,0 +1,29 @@
+{
+  "name": "xlsx-styled-viewer",
+  "version": "1.1.0",
+  "description": "Obsidian plugin that opens .xlsx workbooks as styled spreadsheets: fills, fonts, borders, merged cells, frozen panes, wrapped text, autofilter groups and sheet tabs.",
+  "main": "main.js",
+  "author": "Zoroaster1x",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production",
+    "install-plugin": "bash install.sh",
+    "test": "bun test/run.mjs",
+    "version": "node version-bump.mjs"
+  },
+  "keywords": [
+    "obsidian",
+    "xlsx",
+    "excel",
+    "spreadsheet",
+    "viewer"
+  ],
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "esbuild": "0.25.5",
+    "linkedom": "^0.18.5"
+  },
+  "dependencies": {
+    "fflate": "^0.8.2"
+  }
+}
