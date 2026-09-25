@@ -1,3 +1,5 @@
+>Replaced by https://github.com/zoroaster1x/Styled-MS-Office-Viewer-for-Obsidian
+
 # XLSX-Styled-Viewer-Obsidian-Plugin
 
 An Obsidian plugin that opens .xlsx workbooks as styled spreadsheets instead of plain value tables. Fills, fonts, borders, merged cells, frozen panes, wrapped text, row and column sizes and autofilters all render the way they do in Excel.
